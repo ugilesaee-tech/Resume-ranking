@@ -1,2 +1,5 @@
 streamlit
 PyPDF2
+pandas
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
